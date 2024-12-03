@@ -29,7 +29,7 @@ Sistema de gestión de inventario de equipos computacionales desarrollado con Sp
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/inventario-equipos-api.git
+git clone https://github.com/harflores/inventarioapi.git
 cd inventario-equipos-api
 ```
 
